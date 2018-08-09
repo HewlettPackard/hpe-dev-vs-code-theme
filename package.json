@@ -1,0 +1,22 @@
+{
+    "name": "hpe-dev",
+    "displayName": "HPE DEV",
+    "description": "HPE DEV theme for VS Code",
+    "version": "0.0.1",
+    "publisher": "hpedev",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "HPE DEV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/HPE DEV-color-theme.json"
+            }
+        ]
+    }
+}
