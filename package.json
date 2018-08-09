@@ -4,6 +4,7 @@
     "description": "HPE DEV theme for VS Code",
     "version": "0.0.1",
     "publisher": "hpedev",
+    "icon": "https://s3.amazonaws.com/hpe-developer-portal/hpe-dev-icon.png",
     "engines": {
         "vscode": "^1.25.0"
     },
