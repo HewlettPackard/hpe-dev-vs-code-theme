@@ -3,7 +3,7 @@
     "displayName": "HPE DEV",
     "description": "HPE DEV theme for VS Code",
     "version": "0.0.1",
-    "publisher": "hpedev",
+    "publisher": "hpe-dev",
     "icon": "hpe-dev-icon.png",
     "galleryBanner": {
         "color": "#3B4D54",
