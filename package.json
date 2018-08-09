@@ -4,13 +4,21 @@
     "description": "HPE DEV theme for VS Code",
     "version": "0.0.1",
     "publisher": "hpedev",
-    "icon": "https://s3.amazonaws.com/hpe-developer-portal/hpe-dev-icon.png",
+    "icon": "hpe-dev-icon.png",
+    "galleryBanner": {
+        "color": "#3B4D54",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.25.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://hpedev.visualstudio.com/HPE%20DEV%20VS%20Code%20Theme/_git/HPE%20DEV%20VS%20Code%20Theme"
+    },
     "contributes": {
         "themes": [
             {
