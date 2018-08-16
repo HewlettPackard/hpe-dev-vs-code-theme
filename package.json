@@ -2,7 +2,7 @@
     "name": "hpe-dev",
     "displayName": "HPE DEV",
     "description": "HPE DEV theme for VS Code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "hpe-dev",
     "icon": "hpe-dev-icon.png",
     "galleryBanner": {
